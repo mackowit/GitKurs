@@ -1,1 +1,2 @@
 # GitKurs
+Paragon z zakupami
